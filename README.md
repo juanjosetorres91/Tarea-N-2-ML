@@ -2,6 +2,11 @@
 **Curso:** Métodos Estadísticos / Machine Learning - Universidad del Desarrollo
 **Dataset:** Online Shoppers Purchasing Intention Dataset (UCI/ Kaggle)
 
+**Integrantes:**
+* Valentina Carne
+* Juan José Torres
+* Claudio Ballerini
+
 ## Propósito (Metodología TILT)
 Al finalizar esta tarea, el estudiante será capaz de:
 * Diagnosticar colinealidad mediante matrices de correlación y heatmaps triangulares.
